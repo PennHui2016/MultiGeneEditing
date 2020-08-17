@@ -43,4 +43,4 @@ Then, one can run the codes with the following command line:
    
  After running the example command, the result file in the csv format can be found in the folder "./python source codes/results/multi_gene_spacer_123.csv"
  
- Any problem please contact Dr. Hui Peng, email: cdph2009@13.com
+ Any problem please contact Dr. Hui Peng, email: cdph2009@163.com
