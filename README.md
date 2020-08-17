@@ -26,10 +26,10 @@ the complete structure should be:
 │  ├─dist
 │  ├─nbproject
 │  │  └─private
-│  └─src
+│  ├─src
 │  │   ├─images
 │  │   └─multigeneediting
-│  ├─data
+│  └─data
 │       ├─multi_genes
 │       ├─predict_genes_results
 │       ├─single_editing_modify
