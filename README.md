@@ -15,27 +15,6 @@ To use the tool, please following the guidence below:
 
 the complete structure should be:
 ![example_folder](https://github.com/PennHui2016/images/blob/master/eg_folder1.png)
-./MultiGeneEditing-master
-├─**java
-│  ├─build
-│  │  └─classes
-│  │      ├─images
-│  │      └─multigeneediting
-│  ├─code
-│  │  └─__pycache__
-│  ├─dist
-│  ├─nbproject
-│  │  └─private
-│  ├─src
-│  │   ├─images
-│  │   └─multigeneediting
-│  └─data
-│       ├─multi_genes
-│       ├─predict_genes_results
-│       ├─single_editing_modify
-│       ├─single_gene_MPCP1
-│       └─two_gene_editing**
-└─python source codes
 
 4. double click the file "MultiGeneEditing.jar" under folder java, the tool will be open. Users can select one or more genes (if more than one genes need to be selected, just press the Ctrl and click those genes) and press "execute" button to submit the request. Finally, the results will be given.
 
@@ -50,28 +29,7 @@ Then:
 
 the complete structure should be:
 ![example_folder](https://github.com/PennHui2016/images/blob/master/eg_folder2.png)
-./MultiGeneEditing-master
-├─java
-│  ├─build
-│  │  └─classes
-│  │      ├─images
-│  │      └─multigeneediting
-│  ├─code
-│  │  └─__pycache__
-│  ├─dist
-│  ├─nbproject
-│  │  └─private
-│  └─src
-│      ├─images
-│      └─multigeneediting
-└─**python source codes
-                    ├─data
-                    │    ├─multi_genes
-                    │    ├─predict_genes_results
-                    │    ├─single_editing_modify
-                    │    ├─single_gene_MPCP1
-                    │    └─two_gene_editing
-                    └─results**
+
 Then, one can run the codes with the following command line:
   
    *python display_result.py input1 input2 input3*
