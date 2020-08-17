@@ -14,7 +14,7 @@ To use the tool, please following the guidence below:
 3. extract the data.zip to the folder **"java"**;
 
 the complete structure should be:
-
+![example_folder](https://github.com/PennHui2016/images/blob/master/eg_folder1.png)
 ./MultiGeneEditing-master
 ├─**java
 │  ├─build
@@ -49,7 +49,7 @@ Then:
 3. extract the data.zip to the folder **"python source codes"**;
 
 the complete structure should be:
-
+![example_folder](https://github.com/PennHui2016/images/blob/master/eg_folder2.png)
 ./MultiGeneEditing-master
 ├─java
 │  ├─build
