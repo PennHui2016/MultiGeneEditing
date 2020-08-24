@@ -508,10 +508,10 @@ public class GeneSearch extends javax.swing.JFrame {
         jLabel36.setText(" profiling. Bioinformatics, 34(18), 3069-3077.");
 
         jLabel37.setFont(new java.awt.Font("Arial", 0, 15)); // NOI18N
-        jLabel37.setText("3. Peng H., Zheng, Y., Zhao, Z., & Li, J. (xxxx). Optimization of CRISPR/Cas9 multi-gene editing through prioritizing beneficial off-target editing sites. Nucleic Acids");
+        jLabel37.setText("3. Peng H., Zheng, Y., Zhao, Z., & Li, J. (xxxx). Optimization of CRISPR/Cas9 multi-gene editing through prioritizing beneficial off-target editing sites. xxxxxx");
 
         jLabel38.setFont(new java.awt.Font("Arial", 0, 15)); // NOI18N
-        jLabel38.setText(" Research, xx(xx), xxxx-xxxx.");
+        jLabel38.setText("xxxxxx, xx(xx), xxxx-xxxx.");
 
         javax.swing.GroupLayout aboutPanelLayout = new javax.swing.GroupLayout(aboutPanel);
         aboutPanel.setLayout(aboutPanelLayout);

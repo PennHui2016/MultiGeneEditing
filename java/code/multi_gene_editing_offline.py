@@ -1,4 +1,5 @@
 import sys
+sys.path.append("C:/Users/lenovo/PycharmProjects/hui/venv/Lib/site-packages")
 import scipy.io as sio
 import csv
 import numpy as np
@@ -15,7 +16,10 @@ import statistics
 
 #rootdir='../'
 rootdir=os.path.abspath(os.path.join(os.path.dirname(__file__),'../')).replace('\\','/')+'/'
-
+print('222222')
+print(rootdir)
+#print(sys.path[0])
+#print(os.path.abspath())
 def obtain_gene_info():
     file=rootdir+'data/cancer_gene_info1.csv'
     ids=[]

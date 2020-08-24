@@ -1,10 +1,18 @@
 import sys
+#sys.path.append("D:/project/quantification/code/GAN_learn/venv/Lib/site-packages")
 import pandas as pd
 import numpy as np
 import multi_gene_editing_offline as mg
 import csv
 import time
 import os
+
+
+#rootdir=os.path.abspath('..').replace('\\','/')+'/'
+#single_gene_dir=rootdir+'data/single_editing_modify/'
+#single_gene_mpcp_dir=rootdir+'data/single_gene_MPCP1/'
+#two_gene_dir=rootdir+'data/two_gene_editing/'
+#multi_gene_dir=rootdir+'data/multi_genes/'
 
 def single_gene_mpcp(gene,Time):
     file=single_gene_mpcp_dir+gene+'_0.5_MPCP.csv'
